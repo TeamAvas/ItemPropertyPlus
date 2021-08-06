@@ -1,0 +1,12 @@
+name: ItemPropertyPlus
+main: skh6075\itemproperty\ItemPropertyPlus
+author: AvasKr
+version: 1.0.0
+api: 4.0.0
+website: https://github.com/GodVas
+
+permissions:
+  item.property.name.permission:
+    default: op
+  item.property.lore.permission:
+    default: op
